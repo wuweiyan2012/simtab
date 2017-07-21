@@ -1,5 +1,5 @@
 # simtab
-一个基于jquery开发的tab页插件。
+一个基于jquery开发的tab页插件。<br>
 支持手动打开和关闭tab页。
 支持右键菜单功能。
 支持tab栏左右滚动。
